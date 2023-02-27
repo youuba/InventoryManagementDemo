@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "path": "InventoryManagement.sln",
+    "projects": [
+      "..\\InventoryManagement.Core\\InventoryManagement.Core.csproj",
+      "..\\InventoryManagement.EF\\InventoryManagement.EF.csproj",
+      "InventoryManagement.csproj"
+    ]
+  }
+}
